@@ -40,7 +40,7 @@ Cobertura de pruebas:
 
 ## Autor
 
-Nombre: Leticia Jiménez
+Nombre: Leticia Jiménez.
 
 Email: letijimnez04@gmail.com
 
