@@ -56,8 +56,8 @@ Puedes usar, modificar y distribuir el código para fines educativos o personale
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <aún no disponible>
+git clone https://github.com/letijimeenez/Tarea_online_5.git
 cd nombre-del-proyecto
 
 
-# Tarea_online_5
+
